@@ -1,5 +1,5 @@
 ## **Title: "My First Markdown File"**
 ## **Author: *Darah Via D. Moscoso***
 ## **Date: *September 16, 2025***
-## Github Account: github.com/darahvia
-### Github Repository: https://github.com/darahvia/Intro-to-Github
+* ## Github Account: https://github.com/darahvia
+* ## Github Repository: https://github.com/darahvia/Intro-to-Github
